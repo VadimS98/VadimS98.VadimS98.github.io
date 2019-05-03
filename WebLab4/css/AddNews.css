@@ -1,0 +1,30 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: sans-serif;
+}
+.formHeader{
+	font-size: 20px;
+	text-align: center;
+}
+.apanel{
+   margin-top: 50px;
+   font-size: 22px;
+   font-weight: 900;
+}
+.btn{
+	height: 30px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+	color: red;
+}
+#inputText{
+ 	margin-left: 2%;
+}
+#inputTitle{
+ 	margin-left: 2%;
+}
